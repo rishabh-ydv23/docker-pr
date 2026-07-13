@@ -1,2 +1,5 @@
 print("hello");
-print("hello (name),welcome to app")
+print("hello ame,welcome to app")
+name = input("Enter your name: ")
+
+print(name)
